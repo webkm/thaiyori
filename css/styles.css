@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #d6e0f0;
+    width: 100%;
 }
 .nav-item {
     font-weight: bold;
@@ -16,6 +17,7 @@ body {
     flex-direction: column;
     background: url(../images/bg5.jpg);
     background-size: cover;
+    width: 100%;
 }
 .header-logo {
     width: 450px;
@@ -54,6 +56,7 @@ p {
 }
 .top-container {
     text-align: center;
+    width: 100%;
 }
 img {
     width: 100%;
@@ -69,6 +72,7 @@ img {
     text-align: center;
     background-color: #0278ae;
     margin-top: 8%;
+    width: 100%;
 }
 
 .icon {
@@ -92,10 +96,12 @@ img {
     text-align: center;
     margin-top: 9px;
     padding: 4%;
+    width: 100%;
 }
 
 .last-container {
     text-align: left;
+    width: 100%;
 }
 
 .footer {
@@ -173,6 +179,7 @@ footer-link:active {
     margin-bottom: 0;
     padding: 0;
     text-align: center;
+    width: 100%;
 }
 .copyright-p {
     font-size: 1em;
@@ -352,6 +359,7 @@ background-size: cover;
     flex-direction: column;
     background: url(../images/bg1.jpg);
     background-size: cover;
+    width: 100%;
     
 }
 .service-section {
@@ -359,6 +367,7 @@ background-size: cover;
     background-size: cover;
     border: 20px solid #11698e; 
     border-bottom: none;
+    width: 100%;
     
     
 }
@@ -416,6 +425,7 @@ background-size: cover;
 .electrical-section {
     background-image: url(../images/bg8.jpg);
     padding-bottom: 10%;
+    width: 100%;
     
 }
 .electrical {
@@ -445,6 +455,7 @@ background-size: cover;
     border: 20px solid #11698e;
     border-top: none;
     border-bottom: none;
+    width: 100%;
 }
 .pipe-h2 {
     font-weight: bold;
@@ -477,6 +488,7 @@ background-size: cover;
     border: 20px solid #11698e;
     border-top: none;
     border-bottom: none;
+    width: 100%;
 }
 
 .machine-h2 {
@@ -500,9 +512,7 @@ background-size: cover;
     padding-bottom: 10%;
     border: 20px solid #11698e;
     border-top: none;
-    
-
-    
+   width: 100%; 
 }
 
 
@@ -515,6 +525,7 @@ background-size: cover;
     border: 20px solid #11698e;
     border-top: none;
     padding-bottom: 2%;
+    width: 100%;
 }
 
 .civil-item {
