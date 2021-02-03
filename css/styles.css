@@ -244,7 +244,7 @@ background-size: cover;
     margin-top: 30px;
 }
 .contact-container .contactInfo {
-    width: 50%;
+    width: 80%;
     display: flex;
     flex-direction: column;
 }
@@ -254,6 +254,8 @@ background-size: cover;
     display: flex;
     
 }
+
+
 .contact-container .contactInfo .box .contact-icon {
     min-width: 45px;
     height: 45px;
@@ -359,7 +361,7 @@ background-size: cover;
 .service-header {
     position: relative;
     min-height: 100vh;
-    padding: 50px 100px;
+    padding: 50px auto 50px auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -369,6 +371,7 @@ background-size: cover;
     width: 100%;
     
 }
+
 .service-section {
     background-image: url(../images/bg10.jpg);
     background-size: cover;
